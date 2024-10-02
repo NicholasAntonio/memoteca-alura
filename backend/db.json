@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Olá meu nome é lucas",
+      "autoria": "Lucas",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Olá meu nome é sergio",
+      "autoria": "Sergio",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Olá meu nome é matheus",
+      "autoria": "Matheus",
+      "modelo": "modelo3"
+    }
+  ]
+}
